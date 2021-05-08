@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis Gérard
 - 👀 I’m interested in network and cyber-security.
-- 🌱 I’m currently learning penetrating testing.
+- 🌱 I’m currently learning pentesting.
 - 📫 How to reach me : via louis06.gerard@gmail.com
 
 <!---
