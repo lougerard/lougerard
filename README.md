@@ -1,5 +1,3 @@
-- 👀 I’m interested in network and cyber-security.
-- 🌱 I’m currently learning pentesting.
 - 📫 How to reach me : via cyb3rm3@protonmail.com
 
 <!---
